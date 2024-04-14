@@ -10,7 +10,7 @@ export function App() {
       />
       <div className={styles.info}>
         <p className={styles.category}>Learning</p>
-        <time className={styles.date}>Published 21 Dec 2023</time>
+        <p className={styles.date}>Published 21 Dec 2023</p>
         <h1 className={styles.title}>HTML & CSS foundations</h1>
         <p className={styles.description}>
           These languages are the backbone of every website, defining structure,
